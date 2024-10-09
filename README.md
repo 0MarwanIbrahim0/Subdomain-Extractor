@@ -33,7 +33,7 @@ git clone https://github.com/0MarwanIbrahim0/Subdomain-Extractor.git
 ```
 # Navigate to the project directory
 ```
-cd subdomain-extractor
+cd Subdomain-Extractor
 ```
 # Run the script with the target URL
 ```
